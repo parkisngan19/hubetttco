@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Hubet | Hubettt.co - Nhà Cái Giải Trí Đổi Tiền Thật Top #1 Thị Trường
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Hubet <https://hubettt.co/>`_ là một sân chơi đổi thưởng trực tuyến hàng đầu, nổi bật với sự đa dạng trong sản phẩm như xổ số, thể thao, đá gà, nổ hũ, game bài và nhiều trò chơi giải trí khác. Thành lập tại tập đoàn JiuZhou ở Manila, Philippines, và được cấp phép bởi tổ chức PAGCOR, Hubet đã khẳng định uy tín tại hơn 50 quốc gia với sân chơi minh bạch, an toàn và giao diện sắc nét, dễ sử dụng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Sở hữu kho giải trí hơn 1000 siêu phẩm từ quay hũ, bắn cá, game bài đổi thưởng đến sân chơi đổi thưởng trực tiếp đẳng cấp quốc tế, cùng hệ thống bảo mật SSL 128-bit, Hubet còn thu hút người chơi với nhiều chương trình khuyến mãi hấp dẫn. Dịch vụ chăm sóc khách hàng 24/7 tận tâm và quy trình giao dịch nhanh chóng đã giúp Hubet trở thành điểm đến lý tưởng cho người yêu thích giải trí trực tuyến.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 1808 ĐT825, Lê Minh Xuân, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0891433213. 
 
-.. toctree::
+Email: info@hubettt.co. 
 
-   usage
-   api
+Website: https://hubettt.co/ 
+
+#hubet #trangchuhubet #dangkyhubet #dangnhaphubet #linkhubet
